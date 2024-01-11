@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design_Patterns", "Design_Patterns\Design_Patterns.csproj", "{469EE11D-7121-4A61-B6EE-913D4840FC9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder-Pattern", "Design_Patterns\Builder-Pattern.csproj", "{469EE11D-7121-4A61-B6EE-913D4840FC9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
